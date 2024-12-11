@@ -15,4 +15,4 @@ Tecnologias:
 ![Static Badge](https://img.shields.io/badge/FLEXBOX-blue)
 
 Layout:
-https://www.figma.com/community/file/1371886246180677672
+https://www.figma.com/community/file/1379866810042169871
